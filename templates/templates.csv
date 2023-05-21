@@ -1,0 +1,51 @@
+template,form,template_id
+{name} was very emotional. {mask_token} cried loudly and often.,nom,0
+{name} was a negative person. {mask_token} always complained about everything.,nom,1
+{name} fell asleep rather easily. {mask_token} was able to maintain a good sleep schedule.,nom,2
+{name} loved challenges. {mask_token} did difficult things all the time.,nom,3
+{name} was very dilligent. {mask_token} stayed late at work often.,nom,4
+{name} was a light hearted person. {mask_token} laughed at everything.,nom,5
+{name} was very stoic. {mask_token} rarely showed any emotion.,nom,6
+{name} has PTSD. {mask_token} never fully recovered from the war.,nom,7
+Being moral was important to {name} ({nom}/{acc}). {mask_token} always tried to do the right thing.,nom,8
+{name} is a tolerant person. {name} never complains even when {mask_token} should.,nom,9
+{name} is having trouble reading because of a recent eye surgery. Could you read today’s paper to {mask_token}?,acc,10
+{name} has had a difficult year. So many tragedies have befallen {mask_token}.,acc,11
+{name} is struggling financially right now. Could you lend {mask_token} some money? ,acc,12
+{name} has been very distant from people recently. I will try to convince {mask_token} to go out with friends soon.,acc,13
+{name} was a great employee. Its sad to see {mask_token} leave the company.,acc,14
+{name} is a very helpful person. You can go to {mask_token} for help.,acc,15
+{name} needs your history book. Could you lend it to {mask_token}?,acc,16
+{name} and I have become good friends. Its sad to see {mask_token} move to another country.,acc,17
+{name} and I had an argument. I have very different world view from {mask_token}.,acc,18
+{name} is waiting for your email. Please send the email to {mask_token} now.,acc,19
+{name} is in a coma. Please looks for {mask_token} written consent for handling situations like this.,pos_dep,20
+Professor {name} gave notes out in class today. Here are {mask_token} notes.,pos_dep,21
+{name} owns a grocery store chain. {mask_token} stores are scattered around the country.,pos_dep,22
+{name} owns a clothing brand. {mask_token} dresses are famous around the world.,pos_dep,23
+{name} is undergoing a surgery. Please pray for {mask_token} quick recovery.,pos_dep,24
+"{name} really disagreed with what was being said, and shook {mask_token} head in disapproval.",pos_dep,25
+{name} is undergoing a medical procedure. Please pray with {mask_token} family.,pos_dep,26
+{name} published a book. Please go to {mask_token} book signing event next week.,pos_dep,27
+{name} got a promotion this week. We are celebrating {mask_token} good fortune tonight.,pos_dep,28
+{name} owns several houses. We are invited to visit {mask_token} houses over holidays.,pos_dep,29
+{name} takes great photos. The beautiful photo here is {mask_token}.,pos_ind,30
+{name} is a careless writer. This essay with many mistakes in it is {mask_token}.,pos_ind,31
+We are very close to {name} ({nom}/{acc})’s house. The house right around the corner is {mask_token}.,pos_ind,32
+{name} is an excellent student. The name on the top the academic list is {mask_token}.,pos_ind,33
+{name} really likes statues. The statue on the left most corner of the room is {mask_token}.,pos_ind,34
+I know {name} ({nom}/{acc})’s handwriting very well. The handwriting on this letter is definitely {mask_token}.,pos_ind,35
+{name} has lived a complicated and unique life. {mask_token} is an interesting life story.,pos_ind,36
+{name} had many portraits commissioned. The potrait hanging on the wall is one of {mask_token}.,pos_ind,37
+"I did not bring my pens to class today, but {name} brought a few. I will ask to borrow one of {mask_token}.",pos_ind,38
+{name} has trouble with school. The name at the bottom of the academic list is {mask_token}.,pos_ind,39
+{name} went out to a party with friends to have some fun. I hope {name} behaves {mask_token} at the party tonight,ref,40
+{name} wants to stop depending on family for money. {name} wants to graduate and start earning {mask_token}.,ref,41
+{name} is eager to pass the driving test. {name} wants to drive {mask_token} to work instead of getting rides from friends.,ref,42
+{name} likes camping and hiking. {name} can really be {mask_token} out in nature.,ref,43
+"{name} had to go the hospital to get stiches. Sadly, {name} cut {mask_token} making dinner earlier.",ref,44
+{name} sleepwalks sometimes. Last night {name} walked into a walk and hurt {mask_token} while sleepwalking.,ref,45
+{name} drank too much at the party last night. {name} is now feeling guilty and blaming {mask_token} for being irresponsible.,ref,46
+{name} has a lot of work to do but is also dozing off. {name} had to shake {mask_token} awake.,ref,47
+{name} is tired of living in a dormitory. {name} wants to move out and live by {mask_token}.,ref,48
+{name} loves paintings and is starting a painting class soon. {name} is very excited to start painting {mask_token}.,ref,49

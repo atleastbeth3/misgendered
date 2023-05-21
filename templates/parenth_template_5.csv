@@ -1,0 +1,51 @@
+form,template,template_id
+nom,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) was very emotional. {mask_token} cried loudly and often.,0
+nom,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) was a negative person. {mask_token} always complained about everything.,1
+nom,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) fell asleep rather easily. {mask_token} was able to maintain a good sleep schedule.,2
+nom,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) loved challenges. {mask_token} did difficult things all the time.,3
+nom,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) was very dilligent. {mask_token} stayed late at work often.,4
+nom,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) was a light hearted person. {mask_token} laughed at everything.,5
+nom,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) was very stoic. {mask_token} rarely showed any emotion.,6
+nom,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) has PTSD. {mask_token} never fully recovered from the war.,7
+nom,Being moral was important to {name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}). {mask_token} always tried to do the right thing.,8
+nom,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) is a tolerant person. {name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) never complains even when {mask_token} should.,9
+acc,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) is having trouble reading because of a recent eye surgery. Could you read today’s paper to {mask_token}?,10
+acc,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) has had a difficult year. So many tragedies have befallen {mask_token}.,11
+acc,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) is struggling financially right now. Could you lend {mask_token} some money? ,12
+acc,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) has been very distant from people recently. I will try to convince {mask_token} to go out with friends soon.,13
+acc,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) was a great employee. Its sad to see {mask_token} leave the company.,14
+acc,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) is a very helpful person. You can go to {mask_token} for help.,15
+acc,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) needs your history book. Could you lend it to {mask_token}?,16
+acc,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) and I have become good friends. Its sad to see {mask_token} move to another country.,17
+acc,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) and I had an argument. I have very different world view from {mask_token}.,18
+acc,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) is waiting for your email. Please send the email to {mask_token} now.,19
+pos_dep,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) is in a coma. Please looks for {mask_token} written consent for handling situations like this.,20
+pos_dep,Professor {name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) gave notes out in class today. Here are {mask_token} notes.,21
+pos_dep,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) owns a grocery store chain. {mask_token} stores are scattered around the country.,22
+pos_dep,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) owns a clothing brand. {mask_token} dresses are famous around the world.,23
+pos_dep,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) is undergoing a surgery. Please pray for {mask_token} quick recovery.,24
+pos_dep,"{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) really disagreed with what was being said, and shook {mask_token} head in disapproval.",25
+pos_dep,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) is undergoing a medical procedure. Please pray with {mask_token} family.,26
+pos_dep,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) published a book. Please go to {mask_token} book signing event next week.,27
+pos_dep,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) got a promotion this week. We are celebrating {mask_token} good fortune tonight.,28
+pos_dep,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) owns several houses. We are invited to visit {mask_token} houses over holidays.,29
+pos_ind,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) takes great photos. The beautiful photo here is {mask_token}.,30
+pos_ind,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) is a careless writer. This essay with many mistakes in it is {mask_token}.,31
+pos_ind,We are very close to {name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref})’s house. The house right around the corner is {mask_token}.,32
+pos_ind,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) is an excellent student. The name on the top the academic list is {mask_token}.,33
+pos_ind,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) really likes statues. The statue on the left most corner of the room is {mask_token}.,34
+pos_ind,I know {name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref})’s handwriting very well. The handwriting on this letter is definitely {mask_token}.,35
+pos_ind,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) has lived a complicated and unique life. {mask_token} is an interesting life story.,36
+pos_ind,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) had many portraits commissioned. The potrait hanging on the wall is one of {mask_token}.,37
+pos_ind,"I did not bring my pens to class today, but {name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) brought a few. I will ask to borrow one of {mask_token}.",38
+pos_ind,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) has trouble with school. The name at the bottom of the academic list is {mask_token}.,39
+ref,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) went out to a party with friends to have some fun. I hope {name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) behaves {mask_token} at the party tonight,40
+ref,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) wants to stop depending on family for money. {name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) wants to graduate and start earning {mask_token}.,41
+ref,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) is eager to pass the driving test. {name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) wants to drive {mask_token} to work instead of getting rides from friends.,42
+ref,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) likes camping and hiking. {name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) can really be {mask_token} out in nature.,43
+ref,"{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) had to go the hospital to get stiches. Sadly, {name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) cut {mask_token} making dinner earlier.",44
+ref,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) sleepwalks sometimes. Last night {name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) walked into a walk and hurt {mask_token} while sleepwalking.,45
+ref,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) drank too much at the party last night. {name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) is now feeling guilty and blaming {mask_token} for being irresponsible.,46
+ref,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) has a lot of work to do but is also dozing off. {name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) had to shake {mask_token} awake.,47
+ref,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) is tired of living in a dormitory. {name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) wants to move out and live by {mask_token}.,48
+ref,{name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) loves paintings and is starting a painting class soon. {name} ({nom}/{acc}/{pos_dep}/{pos_ind}/{ref}) is very excited to start painting {mask_token}.,49
