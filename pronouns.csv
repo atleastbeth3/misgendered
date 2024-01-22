@@ -1,0 +1,12 @@
+gender_type,gender,nom,acc,pos_dep,pos_indep,ref
+binary,he,he,him,his,his,himself
+binary,she,she,her,her,hers,herself
+non-binary,they,they,them,their,theirs,themself
+non-binary,thon,thon,thon,thons,thons,thonself
+non-binary,e,e,em,es,ems,emself
+non-binary,ae,ae,aer,aer,aers,aerself
+non-binary,co,co,co,cos,cos,coself
+non-binary,vi,vi,vir,vis,virs,virself
+non-binary,xe,xe,xem,xyr,xyrs,xemself
+non-binary,ey,ey,em,eir,eirs,emself
+non-binary,ze,ze,zir,zir,zirs,zirself
